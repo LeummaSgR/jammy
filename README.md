@@ -1,6 +1,6 @@
 # jammy
 
-https://leummasgr.github.io/jammy/
+https://sammuelgr.github.io/jammy/
 
 gammy beta
 
